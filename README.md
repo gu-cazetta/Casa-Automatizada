@@ -3,7 +3,7 @@
   <h2 align="center">Casa Automatizada</h3>
   
   <p align="center">
-  <img src="C:\Users\joaov\Downloads\Motores e Iluminacao\Casa_Automatizada_3D.jpeg" alt="Logo" width="180" height="180">
+  <img src="Casa_Automatizada_3D.jpeg" alt="Logo" width="180" height="180">
 
   <p align="center">
     Uma forma de melhorar a usabilidade da sua casa.
@@ -17,7 +17,7 @@
 ## Sobre o Projeto
 <br>
 
-<img src="C:\Users\joaov\Downloads\Motores e Iluminacao\Circuito_Digital.jpeg" alt="Logo" width="800" height="400">
+<img src="Circuito_Digital.jpeg" alt="Logo" width="800" height="400">
 
 <br>
 
